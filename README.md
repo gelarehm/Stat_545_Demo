@@ -3,7 +3,4 @@
 ## Stat
 
 
-
-
-
 #Hello howare you
